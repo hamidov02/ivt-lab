@@ -86,5 +86,5 @@ public class GT4500 implements SpaceShip {
     // edited in branch-B
     return firingSuccess;
   }
-
+//this line was edited in branch A
 }
